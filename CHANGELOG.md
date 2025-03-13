@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.4.0](https://github.com/thierry-tct/katex/compare/v0.3.6...v0.4.0) (2025-03-13)
+
+
+### Continuous Integration
+
+* **deps:** bump KaTeX to 0.16.19 ([#38](https://github.com/thierry-tct/katex/issues/38)) ([cd98813](https://github.com/thierry-tct/katex/commit/cd988137103f15e7bc5357bef00ea666ea15556f))
+* **deps:** bump KaTeX to 0.16.20 ([#44](https://github.com/thierry-tct/katex/issues/44)) ([cb8bbf0](https://github.com/thierry-tct/katex/commit/cb8bbf087f81267429bd5e1baa7bba707a19d019))
+* **deps:** bump KaTex to v0.16.10 ([0273abd](https://github.com/thierry-tct/katex/commit/0273abd257973b7e527f2dce2fbacb90f890eca9))
+* **deps:** bump KaTeX to v0.16.11 ([5b97867](https://github.com/thierry-tct/katex/commit/5b97867a4ecea1de390083a2fd804533a365e4a5))
+* **deps:** bump KaTex to v0.16.15 ([6334262](https://github.com/thierry-tct/katex/commit/63342620d23a0294025ec8cd7b75252c27675578))
+* **deps:** bump KaTeX to v0.16.18 ([74017fd](https://github.com/thierry-tct/katex/commit/74017fdbc2c48d48fb911543dd8066f9236c2c2e))
+* **deps:** rebuild assets ([d7dcf15](https://github.com/thierry-tct/katex/commit/d7dcf1556f0783a14ba99e89563a8d2c81841f79))
+
+
+### Features ✨
+
+* add the formula and inline parameters ([da75882](https://github.com/thierry-tct/katex/commit/da75882c3228290bee4e9e8d1071c7a3531a5a70))
+
+
+### Bug Fixes 🐞
+
+* add overflow:auto on output ([ee4570a](https://github.com/thierry-tct/katex/commit/ee4570a431c45215d64d001ceebd431f14b29471))
+
+
+### Performance Improvements ⚡️
+
+* **hugopress:** cache head-end and body-end hooks ([255695b](https://github.com/thierry-tct/katex/commit/255695b84242597846b062b05b2fa2d4ae47177b))
+
 ## [0.3.6](https://github.com/hugomods/katex/compare/v0.3.5...v0.3.6) (2024-12-30)
 
 
